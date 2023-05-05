@@ -625,10 +625,6 @@ PrefabInstance:
       propertyPath: _tip
       value: 
       objectReference: {fileID: 1213032671}
-    - target: {fileID: 5733422265878849309, guid: af9d840a58e133249ba590c40132c3a5, type: 3}
-      propertyPath: m_text
-      value: 'Level: 2'
-      objectReference: {fileID: 0}
     - target: {fileID: 5733422266190009943, guid: af9d840a58e133249ba590c40132c3a5, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
